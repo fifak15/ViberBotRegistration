@@ -1,0 +1,244 @@
+2022-03-07 13:34:47.162  INFO 1068 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 1068 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 13:34:47.166  INFO 1068 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 13:34:49.276  INFO 1068 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 13:34:49.289  INFO 1068 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 13:34:49.290  INFO 1068 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 13:34:49.400  INFO 1068 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 13:34:49.404  INFO 1068 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2117 ms
+2022-03-07 13:34:49.949  INFO 1068 --- [main] o.g.grizzly.http.server.NetworkListener  : Started listener bound to [127.0.0.1:9090]
+2022-03-07 13:34:49.950  INFO 1068 --- [main] o.g.grizzly.http.server.HttpServer       : [HttpServer] Started.
+2022-03-07 13:34:52.717  INFO 1068 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-07 13:34:52.747  INFO 1068 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Started XViberBotApplication in 6.734 seconds (JVM running for 7.606)
+2022-03-07 13:48:35.254  INFO 5112 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 5112 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 13:48:35.257  INFO 5112 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 13:48:38.277  INFO 5112 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 13:48:38.290  INFO 5112 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 13:48:38.291  INFO 5112 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 13:48:38.507  INFO 5112 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 13:48:38.511  INFO 5112 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3091 ms
+2022-03-07 13:48:39.561  INFO 5112 --- [main] o.g.grizzly.http.server.NetworkListener  : Started listener bound to [127.0.0.1:9090]
+2022-03-07 13:48:39.562  INFO 5112 --- [main] o.g.grizzly.http.server.HttpServer       : [HttpServer] Started.
+2022-03-07 13:48:43.641  INFO 5112 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-07 13:48:43.661  INFO 5112 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Started XViberBotApplication in 9.677 seconds (JVM running for 10.782)
+2022-03-07 14:30:53.432  INFO 6576 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 6576 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 14:30:53.434  INFO 6576 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 14:30:55.523  INFO 6576 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 14:30:55.537  INFO 6576 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 14:30:55.537  INFO 6576 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 14:30:55.648  INFO 6576 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 14:30:55.652  INFO 6576 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2136 ms
+2022-03-07 14:30:56.184  INFO 6576 --- [main] o.g.grizzly.http.server.NetworkListener  : Started listener bound to [127.0.0.1:9090]
+2022-03-07 14:30:56.186  INFO 6576 --- [main] o.g.grizzly.http.server.HttpServer       : [HttpServer] Started.
+2022-03-07 14:30:58.808  INFO 6576 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-07 14:30:58.821  INFO 6576 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Started XViberBotApplication in 6.283 seconds (JVM running for 7.504)
+2022-03-07 15:39:00.824  INFO 9152 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 9152 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 15:39:00.826  INFO 9152 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 15:39:02.750  INFO 9152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 15:39:02.762  INFO 9152 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 15:39:02.763  INFO 9152 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 15:39:02.886  INFO 9152 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 15:39:02.889  INFO 9152 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1911 ms
+2022-03-07 15:39:03.344  INFO 9152 --- [main] o.g.grizzly.http.server.NetworkListener  : Started listener bound to [127.0.0.1:9090]
+2022-03-07 15:39:03.345  INFO 9152 --- [main] o.g.grizzly.http.server.HttpServer       : [HttpServer] Started.
+2022-03-07 15:39:06.187  INFO 9152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-07 15:39:06.200  INFO 9152 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Started XViberBotApplication in 6.413 seconds (JVM running for 7.457)
+2022-03-07 15:54:12.529  INFO 5020 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 5020 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 15:54:12.534  INFO 5020 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 15:54:14.710  INFO 5020 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 15:54:14.721  INFO 5020 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 15:54:14.722  INFO 5020 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 15:54:14.830  INFO 5020 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 15:54:14.833  INFO 5020 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2207 ms
+2022-03-07 15:54:14.913  WARN 5020 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitialization' defined in file [F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes\ru\xapp\xviberbot\service\BotInitialization.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'ru.xapp.xviberbot.service.BotOnSubscribedListener' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2022-03-07 15:54:14.916  INFO 5020 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-03-07 15:54:14.999  INFO 5020 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-07 15:54:15.027 ERROR 5020 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 2 of constructor in ru.xapp.xviberbot.service.BotInitialization required a bean of type 'ru.xapp.xviberbot.service.BotOnSubscribedListener' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'ru.xapp.xviberbot.service.BotOnSubscribedListener' in your configuration.
+
+2022-03-07 15:55:49.030  INFO 7580 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 7580 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 15:55:49.033  INFO 7580 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 15:55:51.022  INFO 7580 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 15:55:51.035  INFO 7580 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 15:55:51.036  INFO 7580 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 15:55:51.149  INFO 7580 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 15:55:51.153  INFO 7580 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2044 ms
+2022-03-07 15:55:51.860  INFO 7580 --- [main] o.g.grizzly.http.server.NetworkListener  : Started listener bound to [127.0.0.1:9090]
+2022-03-07 15:55:51.861  INFO 7580 --- [main] o.g.grizzly.http.server.HttpServer       : [HttpServer] Started.
+2022-03-07 15:55:54.513  INFO 7580 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-07 15:55:54.526  INFO 7580 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Started XViberBotApplication in 6.46 seconds (JVM running for 7.555)
+2022-03-07 16:05:22.301  INFO 9092 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 9092 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 16:05:22.306  INFO 9092 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 16:05:24.375  INFO 9092 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 16:05:24.387  INFO 9092 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 16:05:24.388  INFO 9092 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 16:05:24.506  INFO 9092 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 16:05:24.509  INFO 9092 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2094 ms
+2022-03-07 16:05:24.949  INFO 9092 --- [main] o.g.grizzly.http.server.NetworkListener  : Started listener bound to [127.0.0.1:9090]
+2022-03-07 16:05:24.951  INFO 9092 --- [main] o.g.grizzly.http.server.HttpServer       : [HttpServer] Started.
+2022-03-07 16:05:27.807  INFO 9092 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-07 16:05:27.819  INFO 9092 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Started XViberBotApplication in 6.712 seconds (JVM running for 7.575)
+2022-03-07 17:17:31.932  INFO 5420 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 5420 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 17:17:31.937  INFO 5420 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 17:17:33.903  INFO 5420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 17:17:33.918  INFO 5420 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 17:17:33.918  INFO 5420 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 17:17:34.028  INFO 5420 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 17:17:34.031  INFO 5420 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1971 ms
+2022-03-07 17:17:34.112  WARN 5420 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitialization' defined in file [F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes\ru\xapp\xviberbot\service\BotInitialization.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'ru.xapp.xviberbot.service.BotOnConversationStartedListener' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2022-03-07 17:17:34.116  INFO 5420 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-03-07 17:17:34.247  INFO 5420 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-07 17:17:34.272 ERROR 5420 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 2 of constructor in ru.xapp.xviberbot.service.BotInitialization required a bean of type 'ru.xapp.xviberbot.service.BotOnConversationStartedListener' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'ru.xapp.xviberbot.service.BotOnConversationStartedListener' in your configuration.
+
+2022-03-07 17:18:54.315  INFO 5220 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 5220 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 17:18:54.318  INFO 5220 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 17:18:56.291  INFO 5220 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 17:18:56.304  INFO 5220 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 17:18:56.305  INFO 5220 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 17:18:56.416  INFO 5220 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 17:18:56.420  INFO 5220 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1971 ms
+2022-03-07 17:18:56.502  WARN 5220 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitialization' defined in file [F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes\ru\xapp\xviberbot\service\BotInitialization.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'ru.xapp.xviberbot.service.BotOnConversationStartedListener' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2022-03-07 17:18:56.506  INFO 5220 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-03-07 17:18:56.689  INFO 5220 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-07 17:18:56.720 ERROR 5220 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 2 of constructor in ru.xapp.xviberbot.service.BotInitialization required a bean of type 'ru.xapp.xviberbot.service.BotOnConversationStartedListener' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'ru.xapp.xviberbot.service.BotOnConversationStartedListener' in your configuration.
+
+2022-03-07 17:23:41.408  INFO 8152 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 8152 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 17:23:41.412  INFO 8152 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 17:23:43.983  INFO 8152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 17:23:43.996  INFO 8152 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 17:23:43.997  INFO 8152 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 17:23:44.122  INFO 8152 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 17:23:44.125  INFO 8152 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2621 ms
+2022-03-07 17:23:44.658  INFO 8152 --- [main] o.g.grizzly.http.server.NetworkListener  : Started listener bound to [127.0.0.1:9090]
+2022-03-07 17:23:44.659  INFO 8152 --- [main] o.g.grizzly.http.server.HttpServer       : [HttpServer] Started.
+2022-03-07 17:23:47.517  INFO 8152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-07 17:23:47.529  INFO 8152 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Started XViberBotApplication in 7.169 seconds (JVM running for 7.825)
+2022-03-07 17:36:12.261  INFO 5472 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 5472 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 17:36:12.264  INFO 5472 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 17:36:15.033  INFO 5472 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 17:36:15.045  INFO 5472 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 17:36:15.046  INFO 5472 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 17:36:15.160  INFO 5472 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 17:36:15.164  INFO 5472 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2824 ms
+2022-03-07 17:36:15.619  INFO 5472 --- [main] o.g.grizzly.http.server.NetworkListener  : Started listener bound to [127.0.0.1:9090]
+2022-03-07 17:36:15.621  INFO 5472 --- [main] o.g.grizzly.http.server.HttpServer       : [HttpServer] Started.
+2022-03-07 17:36:18.357  INFO 5472 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-07 17:36:18.369  INFO 5472 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Started XViberBotApplication in 7.137 seconds (JVM running for 7.843)
+2022-03-07 17:44:29.795  INFO 7436 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 7436 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 17:44:29.800  INFO 7436 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 17:44:32.673  INFO 7436 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 17:44:32.686  INFO 7436 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 17:44:32.687  INFO 7436 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 17:44:32.810  INFO 7436 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 17:44:32.814  INFO 7436 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2945 ms
+2022-03-07 17:44:33.289  INFO 7436 --- [main] o.g.grizzly.http.server.NetworkListener  : Started listener bound to [127.0.0.1:9090]
+2022-03-07 17:44:33.290  INFO 7436 --- [main] o.g.grizzly.http.server.HttpServer       : [HttpServer] Started.
+2022-03-07 17:44:36.290  INFO 7436 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-07 17:44:36.303  INFO 7436 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Started XViberBotApplication in 7.517 seconds (JVM running for 8.09)
+2022-03-07 17:44:57.257 ERROR 7436 --- [Grizzly-worker(3)] com.viber.bot.server.CallbackServer      : An error occurred while handling request for path /viber-bot
+
+java.lang.NullPointerException: null
+	at ru.xapp.xviberbot.service.BotOnMessageListener.handle(BotOnMessageListener.java:25)
+	at com.viber.bot.ViberBot.lambda$handle$0(ViberBot.java:108)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at com.viber.bot.ViberBot.handle(ViberBot.java:104)
+	at com.viber.bot.server.DefaultHandler.handle(DefaultHandler.java:39)
+	at com.viber.bot.server.CallbackServer$1.service(CallbackServer.java:31)
+	at org.glassfish.grizzly.http.server.HttpHandler$1.run(HttpHandler.java:224)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:593)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:573)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2022-03-07 17:46:52.647 ERROR 7436 --- [Grizzly-worker(2)] com.viber.bot.server.CallbackServer      : An error occurred while handling request for path /viber-bot
+
+java.lang.NullPointerException: null
+	at ru.xapp.xviberbot.service.BotOnMessageListener.handle(BotOnMessageListener.java:25)
+	at com.viber.bot.ViberBot.lambda$handle$0(ViberBot.java:108)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at com.viber.bot.ViberBot.handle(ViberBot.java:104)
+	at com.viber.bot.server.DefaultHandler.handle(DefaultHandler.java:39)
+	at com.viber.bot.server.CallbackServer$1.service(CallbackServer.java:31)
+	at org.glassfish.grizzly.http.server.HttpHandler$1.run(HttpHandler.java:224)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:593)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:573)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2022-03-07 17:46:59.804 ERROR 7436 --- [Grizzly-worker(1)] com.viber.bot.server.CallbackServer      : An error occurred while handling request for path /viber-bot
+
+java.lang.NullPointerException: null
+	at ru.xapp.xviberbot.service.BotOnMessageListener.handle(BotOnMessageListener.java:25)
+	at com.viber.bot.ViberBot.lambda$handle$0(ViberBot.java:108)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at com.viber.bot.ViberBot.handle(ViberBot.java:104)
+	at com.viber.bot.server.DefaultHandler.handle(DefaultHandler.java:39)
+	at com.viber.bot.server.CallbackServer$1.service(CallbackServer.java:31)
+	at org.glassfish.grizzly.http.server.HttpHandler$1.run(HttpHandler.java:224)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:593)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:573)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2022-03-07 17:48:27.545  INFO 2344 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 2344 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 17:48:27.549  INFO 2344 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 17:48:29.805  INFO 2344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 17:48:29.817  INFO 2344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 17:48:29.818  INFO 2344 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 17:48:29.939  INFO 2344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 17:48:29.942  INFO 2344 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2264 ms
+2022-03-07 17:48:30.459  INFO 2344 --- [main] o.g.grizzly.http.server.NetworkListener  : Started listener bound to [127.0.0.1:9090]
+2022-03-07 17:48:30.460  INFO 2344 --- [main] o.g.grizzly.http.server.HttpServer       : [HttpServer] Started.
+2022-03-07 17:48:33.338  INFO 2344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-07 17:48:33.356  INFO 2344 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Started XViberBotApplication in 6.963 seconds (JVM running for 7.736)
+2022-03-07 17:49:50.493  INFO 4964 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Starting XViberBotApplication using Java 11 on ALEXANDR with PID 4964 (F:\IDEAProjects\ViberBots\XViberBotRelease\target\classes started by ALEXANDER in F:\IDEAProjects\ViberBots\XViberBotRelease)
+2022-03-07 17:49:50.499  INFO 4964 --- [main] ru.xapp.xviberbot.XViberBotApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-03-07 17:49:52.832  INFO 4964 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-07 17:49:52.845  INFO 4964 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-07 17:49:52.846  INFO 4964 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-07 17:49:52.992  INFO 4964 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-07 17:49:52.995  INFO 4964 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2356 ms
+2022-03-07 17:49:54.194  INFO 4964 --- [main] o.g.grizzly.http.server.NetworkListener  : Started listener bound to [127.0.0.1:9090]
+2022-03-07 17:49:54.195  INFO 4964 --- [main] o.g.grizzly.http.server.HttpServer       : [HttpServer] Started.
+2022-03-07 17:49:56.971  INFO 4964 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-07 17:49:56.992  INFO 4964 --- [main] ru.xapp.xviberbot.XViberBotApplication   : Started XViberBotApplication in 7.463 seconds (JVM running for 8.486)
